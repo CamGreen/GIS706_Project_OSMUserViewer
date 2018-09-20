@@ -1,0 +1,18 @@
+body{
+    display: inline;
+    position: relative
+}
+.map{
+    width: 850px;
+    height: 430px;
+    border-radius: 7;
+    display: inline-block;
+}
+.search_container{
+    background-color: gray;
+    width: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: top;
+}
